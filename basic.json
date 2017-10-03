@@ -1,0 +1,43 @@
+[
+	{
+	
+	"front": "How many states are in the United States?",
+	"back": "50"
+},
+{ 
+	
+	"front": "What is the capitol of New Jersey?",
+	"back": "Trenton"
+},
+{ 
+	"front": "What is the national bird?",
+	"back":"Bald Eagle"
+}, 
+{
+	"front": "When was the last time the liberty bell was rung?",
+	"back": "On George Washington's Birthday in 1846"
+},
+{
+	
+	"front":"What city is the birthplace of the first ferris wheel?",
+	"back":"Chicago"
+}, 
+{
+	"front": "Where is the statue of liberty located?",
+	"back": "New York"
+}, 
+{
+	"front":"What state holds the longest boardwalk in the world?",
+	"back":"Atlantic City"
+}, 
+{
+	"front": "When did women get the right to vote in the US?",
+	"back": "1920"
+}, 
+{
+	"front":"What was the first university in the US?",
+	"back":" Harvard"
+}
+
+]
+

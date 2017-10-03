@@ -1,0 +1,40 @@
+[
+	{
+
+	"text": "There are 50 states in the United States of America",
+	"cloze": "50"
+	},
+	{ 
+		"text": "Trenton is the capitol of New Jersey?",
+		"cloze": "Trenton"
+	},
+	{ 
+		"text": "the Bald Eagle is the national bird?",
+		"cloze":"Bald Eagle"
+	}, 
+	{
+		"text": "On George Washington's Birthday in 1846 was the last time the liberty bell was rung?",
+		"cloze": "On George Washington's Birthday in 1846"
+	}, 
+	{
+		
+		"text":"Chicago is the birthplace of the first ferris wheel?",
+		"cloze":"Chicago"
+	}, 
+	{
+		"text": "New York is where the statue of liberty is located",
+		"cloze": "New York"
+	}, 
+	{
+		"text":"Atlantic City holds the longest boardwalk in the world",
+		"cloze":"Atlantic City"
+	}, 
+	{
+		"text": "When did women get the right to vote in the US?",
+		"cloze": "1920"
+	},
+	{
+		"text":"What was the first university in the US?",
+		"cloze":" Harvard"
+	}
+]
